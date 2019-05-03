@@ -6,4 +6,4 @@ Start the jupyter notebook:
 ```
 $ jupyter notebook
 ```
-Then click the restart button and run all button.
+Go to the anaysis notebook then click the restart and run all button.
